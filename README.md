@@ -13,7 +13,7 @@ THAT IS...
 CORRECT!!!
 ```
 
-Else pring
+Else print
 ```
 THAT IS...
 NOT CORRECT
